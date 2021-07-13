@@ -1,4 +1,4 @@
-<b>Sample NLP Approach to Analyzing Twitter, Trump, and Profanity</b>
+<h1>Sample NLP Approach to Analyzing Twitter, Trump, and Profanity</h1>
 
 The twitter_pull_data.py Python script pulls tweets from the Twitter Search API and then the profanity_analysis.py script uses basic natural language processing techniques to clean and process the text data from each tweet. Then it matches each word from the corpus to the ProfanityDetection algorithm to show you swear words and their counts in a dictionary.
 
